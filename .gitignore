@@ -1,3 +1,9 @@
+# filebase64 project
+output
+output.exe
+outputjoin
+*.exe
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
